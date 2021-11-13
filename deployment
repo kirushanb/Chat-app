@@ -1,0 +1,4 @@
+firebase login
+firebase init
+yarn build
+firebase deploy
